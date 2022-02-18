@@ -17,6 +17,7 @@ para o crescimento da empresa/startup.
   <li>HTML5</li>
   <li>CSS3</li>
   <li>JavaScript</li>
+  <li>React</li>
   <li>Git</li>
   <li>GitHub</li>
   <li>VSCode</li>
