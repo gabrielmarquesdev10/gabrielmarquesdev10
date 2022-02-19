@@ -22,18 +22,6 @@ de fácil acesso ao usuário.
 
 ## 😄 Skills
 
-<ul>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>JavaScript</li>
-  <li>Git</li>
-  <li>GitHub</li>
-  <li>VSCode</li>
- 
-</ul>
-
-
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Lucas-Html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
