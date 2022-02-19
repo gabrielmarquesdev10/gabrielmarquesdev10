@@ -1,4 +1,4 @@
-<h1 align="center">Desenvolvedor Front-end</h1>
+<h1 align="center">Welcome to my GitHub Profile! </h1>
 
 
 <div align="center">
@@ -6,9 +6,10 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielmarquesdev10&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmarquesdev10&layout=compact&langs_count=7&theme=default"/>
 </div>
+  
+   <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e475abe68mff7k1jymd2k8hodzutyfg2ll4wzxujn7w&rid=giphy.gif&ct=g" heigh="300" width="300">
 
-<h1 align="center"><img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e475abe68mff7k1jymd2k8hodzutyfg2ll4wzxujn7w&rid=giphy.gif&ct=g" heigh="400" width="400">
-</h1>
+
 
 
 
@@ -31,12 +32,14 @@ de fácil acesso ao usuário.
  
 </ul>
 
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Lucas-Html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-Css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="right" width="140" src='https://imgur.com/a/kg6ZA92'/>
+  <img align="right" width="140" src='https://avataaars.io/?avatarStyle=Circle&topType=ShortHairDreads01&accessoriesType=Round&hairColor=Black&facialHairType=Blank&clotheType=Hoodie&clotheColor=Black&eyeType=Happy&eyebrowType=DefaultNatural&mouthType=Smile&skinColor=Brown'/>
 </div>
 
 
