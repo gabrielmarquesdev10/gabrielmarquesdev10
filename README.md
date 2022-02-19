@@ -37,5 +37,5 @@ de fácil acesso ao usuário.
 
  [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@gabrielmarquesdev10)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-marques-557032144/)
 
-![Snake animation](https://github.com/gabrielmarquesdev10/gabrielmarquesdev10/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gabrielmarquesdev10/gabrielmarquesdev10/blob/main/snake.svg)
 <!--
