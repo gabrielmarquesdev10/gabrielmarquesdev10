@@ -1,6 +1,8 @@
 <h1 align="center">Welcome to my GitHub Profile! </h1>
 <h1 align="center">Bem-vindo ao meu perfil do GitHub! </h1>
 
+<h3 align="center">I'm Gabriel Marques, System Analysis and Development student! 🧑🏾‍💻</h3><br>
+
 
 <div align="center">
   <a href="https://github.com/gabrielmarquesdev10">
