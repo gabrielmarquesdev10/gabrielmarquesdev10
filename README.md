@@ -24,7 +24,7 @@ para o crescimento da empresa/startup.
  
 </ul>
 
-<img src="https://media4.giphy.com/media/Pm4HpXI62FxF4jfM60/giphy_s.gif" heigh="150" width="150">
+
 
  ## 📫 Contatos <br><br>
 
