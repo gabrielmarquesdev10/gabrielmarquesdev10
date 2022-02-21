@@ -33,8 +33,7 @@ de fácil acesso ao usuário.
   <img align="center" alt="Gabriel-Html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Gabriel-Css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Gabriel-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="right" width="140" src='https://pt.xavatar.io/svgavatars2/temp-avatars/svgA8036074715242238.png'/>
-</div> <br>
+ 
 
 
 
