@@ -1,32 +1,24 @@
-<h1 align="center">Welcome to my GitHub Profile! </h1>
+
 <h1 align="center">Bem-vindo ao meu perfil do GitHub! </h1>
 
-<h3 align="center">I'm Gabriel Marques, System Analysis and Development student! 🧑🏾‍💻</h3><br>
+<h3 align="center">Olá me chamo Gabriel Marques!🧑🏾‍💻</h3><br>
+
+Sou um programador Jr, estudando linguagens de programação Web, 
+além de estudar Analise e desenvolvimento de sistemas (Estácio),<br>
+aqui no github está meus projetos de dedicação por paixão.</br>
+Buscando sempre estar atualizado com o mercado de tecnologia e desenvolver projetos
+de fácil acesso ao usuário.<br><br>
 
 
 <div align="center">
   <a href="https://github.com/gabrielmarquesdev10">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielmarquesdev10&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmarquesdev10&layout=compact&langs_count=7&theme=default"/>
-</div><br>
+</div>
  
-  
-  I'm a Jr programmer, studying Web programming languages,
-in addition to studying Systems Analysis and Development (Estácio),
-here is my projects dedication for passion.</br>
-Always seeking to be updated with the technology market and develop projects
-easy access to the user.
    
-Sou um programador Jr, estudando linguagens de programação Web, 
-além de estudar Analise e desenvolvimento de sistemas (Estácio),
-aqui está meus projetos de dedicação por paixão.</br>
-Buscando sempre estar atualizado com o mercado de tecnologia e desenvolver projetos
-de fácil acesso ao usuário.
 
-
-
-
-## 😄 Skills / Habilidades
+## 😄 Skills 
 
 <div>
   
@@ -37,7 +29,7 @@ de fácil acesso ao usuário.
 
 
 
- ## 📫 Contacts / Contatos 
+ ## 📫 Contatos 
 
  [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@gabrielmarquesdev10)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-marques-557032144/)
 
